@@ -11,6 +11,6 @@ html {
 /* Write your solution here */
 @media only screen and (max-width: 450px){
   #bear{
-    transform: rotate(360deg);
+    transform: rotate(270deg);
   }
 }
